@@ -37,4 +37,4 @@
 
 <hr>
 
-- 🤓 &nbsp; Redux | Cypress | Jest | Github Actions
+- 🤓 &nbsp; Mockito | Cypress | Jest | Github Actions
